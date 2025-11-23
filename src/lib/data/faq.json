@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "What is the Check-in/Check-out Time?",
+    "answer": "Our standard Check-in time is 1:30 PM and Check-out is 11 AM sharp. We can provide early check-in and late check-out as per requirement."
+  },
+  {
+    "id": 2,
+    "question": "What types of rooms are available?",
+    "answer": "Embellished with chic wooden decour, the Farm Stay offers two lavish and spacious bedrooms that comes with king-sized beds with an en-suite bathrooms, separate dressing rooms/powder rooms, air conditioners and separate wardrobes. The Living Room is adorned with contemporary wooden interiors and with its lounge-type seating which can accommodate up to 7 people."
+  },
+  {
+    "id": 3,
+    "question": "Are Meals Included in the tariff?",
+    "answer": "Meals are not included in the tariff. We have a full fledged kitchen including a gas with all the utensils needed for basic cooking. Kitchen is accessible at no extra cost so you can cook food but you will have to carry all the cooking material. There many pure veg and non veg restaurants which deliver food at the property’s doorstep. All our previous guests order from the same restaurants everytime (Zomato is also available)."
+  },
+  {
+    "id": 4,
+    "question": "Is there a drinking water facility available?",
+    "answer": "Yes. RO facility is available at the Farmstay."
+  },
+  {
+    "id": 5,
+    "question": "How much of the property can guests access?",
+    "answer": "Guests can access each and every place in the 2 acre compound which include a spacious Lawn area exactly in front of the Farmstay’s Patio. The compound also consists of a Mango Garden right in front of this Lawn area."
+  },
+  {
+    "id": 6,
+    "question": "Is there a caretaker available at the property?",
+    "answer": "Yes, the caretaker stays on the premises of the same property. He has a separate house and will be available at all times till 9 pm. The host is not present at the property but is always accessible via call or message."
+  },
+  {
+    "id": 7,
+    "question": "Do you provide bonfire and barbecue, and what are the charges?",
+    "answer": "We provide Bonfire and Barbeque. Barbeque’s charges are 750/- for a night, includes coal, bbq stand, skewers (Food is not included in it). The caretaker will help you set up the barbeque, cooking and everything else will be done by the guests. Bonfire’s charges are 300/- per night."
+  }
+]
