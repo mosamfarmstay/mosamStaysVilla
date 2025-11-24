@@ -18,6 +18,11 @@ export const metadata: Metadata = {
   title: "Mosam FarmStays",
   description:
     "A British style dreamy wooden cottage villa in Nashik-Igatpuri, built with love and surrounded by nature. Enjoy serene landscapes and cozy comfort, making it an ideal and affordable retreat for couples, families and nature lovers.",
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+    maximumScale: 5,
+  },
 };
 
 export default function RootLayout({
